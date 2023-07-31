@@ -1,6 +1,8 @@
 # W2Map
 Single-page application. Auto content generation and navigation using .html .Json and JavaScript.
 
+Preview : https://j1327.github.io/W2Map/
+
 Made from scratch with Visual Studio Code using "Open with live server" (in order to load .json files with js)
 
 Used (included) libraries:
