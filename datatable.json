@@ -1,0 +1,6158 @@
+{
+    "table": [
+
+
+
+{
+    "MID": "0",
+    "Name": "Abbey",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+
+{
+    "MID": "1",
+    "Name": "Safe Heaven",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "2",
+    "Name": "Cliff",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "3",
+    "Name": "Empire's Border",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "4",
+    "Name": "Ensk",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "5",
+    "Name": "Fisherman's Bay",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "6",
+    "Name": "Fjords",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "7",
+    "Name": "Highway",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "8",
+    "Name": "Himmelsdorf",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "9",
+    "Name": "Karelia",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "10",
+    "Name": "Lakeville",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "11",
+    "Name": "Live Oaks",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "12",
+    "Name": "Malinovka",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "13",
+    "Name": "Mines",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "14",
+    "Name": "Mountain Pass",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "15",
+    "Name": "Murovanka",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "44",
+    "Name": "Outpost",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "16",
+    "Name": "Overlord",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "17",
+    "Name": "Paris",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "18",
+    "Name": "Pearl River",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "19",
+    "Name": "Pilsen",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "20",
+    "Name": "Prokhorovka",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "21",
+    "Name": "Province",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "22",
+    "Name": "Redshire",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "23",
+    "Name": "Ruinberg",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "24",
+    "Name": "Serene Coast",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "25",
+    "Name": "Siegfried Line",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "26",
+    "Name": "Steppes",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "27",
+    "Name": "Studzianki",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "28",
+    "Name": "Tundra",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "29",
+    "Name": "Westfield",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "30",
+    "Name": "Widepark",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "31",
+    "Name": "Erlenberg",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "32",
+    "Name": "Mannerheim Line ",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "33",
+    "Name": "Glacier",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "34",
+    "Name": "Airfield",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "35",
+    "Name": "El Halluf",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "36",
+    "Name": "Ghost Town",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "37",
+    "Name": "Sand River",
+    "Description": "",
+    "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "38",
+    "Name": "Hinterland",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "39",
+    "Name": "Klondike",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "40",
+    "Name": "Nebelburg",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "41",
+    "Name": "Kraftwerk",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+
+{
+    "MID": "42",
+    "Name": "Normandy",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+},
+
+{
+    "MID": "43",
+    "Name": "Berlin",
+    "Description": "",
+   "MapTypes":[
+        {
+            "Standart":[
+                {
+                    "Class":"btn",
+                    "UpperhandClass":"btn",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Assult":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Encounter":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "Frontlines":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ],
+            "GrandBattle":[
+                {
+                    "Class":"btn disabled",
+                    "UpperhandClass":"btn disabled",
+                    "cons": "",
+                    "pros": "",
+                    "upperhandpros":"",
+                    "upperhandcons":""
+                }
+            ]
+        }
+    ],
+    "LT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "MT":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "HT": [
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "TD":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ],
+    "SPG":[
+        {
+            "class":"text-bg-info", 
+            "Classupperhandpros":"",
+            "Classupperhandcons":"",
+            "Classupperhandassultpros":"",
+            "Classupperhandassultcons":"",
+            "Classupperhandencounterpros":"",
+            "Classupperhandencountercons":"",
+            "Classupperhandfrontlinespros":"",
+            "Classupperhandfrontlinescons":"",
+            "Classupperhandgbspros":"",
+            "Classupperhandgbcons":""
+        }
+    ]
+}
+    ],
+
+
+"selector": [
+        {
+            "TID": "home",
+            "Name": "home",
+            "Properties": "",
+            "desc": ""
+        },
+        {
+            "TID": "LT",
+            "Name": "Light Tanks",
+            "Properties": "",
+            "desc": ""
+        },
+        {
+            "TID": "MT",
+            "Name": "Medium Tanks",
+            "Properties": "",
+            "desc": ""
+        },
+        {
+            "TID": "HT",
+            "Name": "Heavy Tanks",
+            "Properties": "",
+            "desc": ""
+        },
+        {
+            "TID": "TD",
+            "Name": "Tank Destroyers",
+            "Properties": "",
+            "desc": ""
+        },
+        {
+            "TID": "SPG",
+            "Name": "Self-Propelled Guns",
+            "Properties": "",
+            "desc": ""
+        }
+]
+}
