@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Select your path</title>
+    <script src="./Assets/jquery-3.3.1.slim.min.js"></script>
+    <script src="./Assets/popper.min.js"></script>
+    <script src="./Assets/bootstrap.bundle.js"></script>
+    <link href="./Assets/bootstrap.css" rel="stylesheet" type="text/css">
+    <style>
+        local_map_selector{display: inline-block;position: relative;padding: 5px;margin: 5px;}
+        .mapname {position: absolute;top: 0;right: 0;padding: 5px;margin: 5px;}
+        html,
+        body {
+          margin: 0;
+          padding: 0;
+          height: 100%;
+          background-color: #140032!important;
+          color: White!important;
+          overflow: auto;
+        }
+    
+        #iframeContainer {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
+    
+        #iframeContainer iframe {
+          width: 100%;
+          height: 100%;
+          border: none;
+        }
+        .fix {
+          display: block !important;
+          visibility: visible !important;
+          opacity: 1!important;
+        }
+
+        .map_selector_background{
+          background-image: url("./Assets/backdrop/background.png");
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: relative;
+          border:5px solid greenyellow;
+        }
+
+        .inside-nav-link{
+          display: block;
+          padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+          font-size: var(--bs-nav-link-font-size);
+          font-weight: var(--bs-nav-link-font-weight);
+          color: var(--bs-nav-link-color);
+          text-decoration: none;
+          background: none;
+          border: 0;
+          transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+        }
+
+        .inside-nav-link:hover, .nav-link:focus {
+          color: var(--bs-nav-link-hover-color);
+        }
+        .inside-nav-link:focus-visible {
+          outline: 0;
+          box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+        }
+        .closure {
+          width: 300px;
+          height: 300px;
+          position: relative;
+      }
+  
+      .bp_map {
+          max-width: 100%;
+          max-height: 100%;
+      }
+  
+      .standart {
+          opacity: 0.66;
+          position: absolute;
+          top: 0;
+          left: 0;
+      }
+      .showtabcontent{
+        width: 100% !important;
+        height: 100% !important;
+        display: inline-block;
+        position: relative;
+      }
+      local_map_selector> a > img {
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+      }
+      
+      local_map_selector> a > img:hover {
+        -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(0%);
+        transform: scale(1.2);
+      }
+
+
+    </style>
+    </head>
+<body>
+
+  <nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
+    <a class="navbar-brand" href="#" style="color:mediumspringgreen">
+      Bootstrap
+    </a>
+  </nav>
+  
+  
+
+
+  <script>
+    const mapfile = (selectedTable) => {
+      fetch('datatable.json')
+        .then(response => response.json()) 
+        .then(data => {
+          const tableData = data.table; 
+          const selectorData = data.selector;
+          const selectorItem = selectorData.find(selector => selector.TID === selectedTable); 
+          const selectorName = selectorItem ? selectorItem.TID : ''; 
+    
+          const containerIds = ['LTContainer', 'MTContainer', 'HTContainer', 'SPGContainer', 'TDContainer'];
+          containerIds.forEach(containerId => {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+          });
+          
+          const selectedTableContainer = document.getElementById(`${selectedTable}Container`);
+          selectedTableContainer.innerHTML = '';
+    
+          const divsticker = document.createElement('div');
+          divsticker.setAttribute('id', `nav-${selectorName}-TK`);
+          divsticker.setAttribute('class', `tab-pane fade show active`); 
+          divsticker.setAttribute('role', `tabpanel`);
+          divsticker.setAttribute('aria-labelledby', `nav-${selectorName}-tab`);
+          divsticker.innerHTML = '';
+
+          const insideDiv = document.createElement('div');
+          insideDiv.setAttribute('class', 'tab-content');
+          insideDiv.setAttribute('id', `nav-${selectorName}-IN`);
+
+          const deepDiv = document.createElement('div');
+          deepDiv.setAttribute('id', `${selectorName}-tab`);
+          deepDiv.setAttribute('class', 'map_selector_background');
+          deepDiv.setAttribute('role', 'tablist');
+          deepDiv.innerHTML = `
+<button id="nav-${selectorName}-IN" class="nav-link d-none active" data-bs-toggle="tab" data-bs-target="#nav-${selectorName}-TK" type="button" role="tab" aria-controls="nav-${selectorName}-TK" aria-selected="true">init hidden</button>
+`;
+
+          selectedTableContainer.appendChild(insideDiv); 
+    
+          const handleClick = (event, item, classes,tableData,selectedTable) => {
+            event.preventDefault();
+    
+            const content = generateContent(item, selectorItem, classes,tableData,selectedTable); 
+            insideDiv.innerHTML =  content;
+          };
+    
+          tableData.forEach(item => {
+            if (item[selectedTable] && item[selectedTable][0].class) {
+              const classes = item[selectedTable][0].class;
+    
+              const link = document.createElement('a');
+              link.setAttribute('href', `#${item.MID}${selectorName}`);
+              link.setAttribute('id', `nav-${item.MID}${selectorName}-tab`);
+              link.setAttribute('data-bs-toggle', 'tab');
+              link.setAttribute('data-bs-target', `#nav-${item.MID}${selectorName}`);
+              link.setAttribute('type', 'button');
+              link.setAttribute('role', 'tab');
+              link.setAttribute('aria-controls', `nav-${item.MID}${selectorName}`);
+              link.setAttribute('onclick', 'showcase(this);');
+              link.innerHTML = `
+                <img src="./Assets/images/${item.MID}.png" alt="${item.Name}" class="" width="164" height="164">
+                <span class="mapname badge ${classes}">${item.Name}</span>
+              `;
+    
+              link.addEventListener('click', event => {
+                handleClick(event, item, classes,tableData,selectedTable);
+              });
+    
+              const localMapSelector = document.createElement('local_map_selector');
+              localMapSelector.appendChild(link);
+    
+            deepDiv.appendChild(localMapSelector);
+            divsticker.appendChild(deepDiv);
+            insideDiv.appendChild(divsticker);
+            selectedTableContainer.appendChild(insideDiv);
+
+            }
+          });
+        })
+        .catch(error => console.error(error));
+    };
+    
+    const generateContent = (item, selectorItem, classes, tabledata,selectedTable) => {
+
+      const selectorID = selectorItem?.TID || '';
+      const selectorType = selectorItem?.Name || '';
+      
+      const selectedObject = tabledata.find(obj => obj.MID === item.MID) || {};
+      const { MapTypes: [{ Standart = {}, Assult = {}, Encounter = {}, Frontlines = {}, GrandBattle = {} } = {}] } = selectedObject;
+      const table_standart = Standart[0] || {};
+      const table_assult = Assult[0] || {};
+      const table_encounter = Encounter[0] || {};
+      const table_frontlines = Frontlines[0] || {};
+      const table_grandbattle = GrandBattle[0] || {};
+      
+      const TFeatures = selectedObject[selectedTable]?.[0] || {};
+      
+      const {
+        Classupperhandpros,
+        Classupperhandcons,
+        Classupperhandassultpros,
+        Classupperhandassultcons,
+        Classupperhandencounterpros,
+        Classupperhandencountercons,
+        Classupperhandfrontlinespros,
+        Classupperhandfrontlinescons,
+        Classupperhandgbspros,
+        Classupperhandgbcons
+      } = TFeatures;
+
+      return `
+      <div class="tab-pane fade show active" id="nav-${item.MID}${selectorID}" role="tabpanel" aria-labelledby="nav-${item.MID}${selectorID}-tab" tabindex="0" style="background-image:url('/assets/backdrop/bg-${item.MID}.jpg')">
+        <hr>
+        <h3>${item.Name} | ${selectorType} </h3>
+        <h5><span class="badge ${classes}">${classes}</span></h5>
+        <h6>All provided information for map <b>${item.Name}</b> is based for <b>${selectorType}</b></h6>             
+        <div class="text-center">
+
+      <div class="container text-center"><div class="row">
+          <div class="col">
+            <div class="closure">
+              <img class="closure" src="./Assets/images/${item.MID}.png">
+
+              <div id="standartContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}_standart.png"></div>
+              <div id="assultContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}_assult.png"></div>
+              <div id="encounterContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}_encounter.png"></div>
+              <div id="FrontlinesContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}_frontlines.png"></div>
+              <div id="GrandBattleContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}_gb.png"></div>
+
+              <div id="upperhandContent" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}__standart.png"></div>
+              <div id="upperhandContentAssult" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}__assult.png"></div>
+              <div id="upperhandContentEncounter" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}__encounter.png"></div>
+              <div id="upperhandContentFrontlines" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}__frontlines.png"></div>
+              <div id="upperhandContentGrandBattle" class="collapse"><img class="bp_map standart" src="/Assets/images/${item.MID}__grandbattle.png"></div>
+
+              <div id="ClassupperhandContent" class="collapse"><img class="bp_map standart closure" src="/Assets/images/${selectorID}${item.MID}_standart.png"></div>
+              <div id="ClassupperhandContentAssult" class="collapse"><img class="bp_map standart closure" src="/Assets/images/${selectorID}${item.MID}_assult.png"></div>
+              <div id="ClassupperhandContentEncounter" class="collapse"><img class="bp_map standart closure" src="/Assets/images/${selectorID}${item.MID}_encounter.png"></div>
+              <div id="ClassupperhandContentFrontlines" class="collapse"><img class="bp_map standart closure" src="/Assets/images/${selectorID}${item.MID}_frontlines.png"></div>
+              <div id="ClassupperhandContentGrandBattle" class="collapse"><img class="bp_map standart closure" src="/Assets/images/${selectorID}${item.MID}_grandbattle.png"></div>
+            </div>
+          </div>
+
+          <div class="col">
+          <div class="col adjust"><table class="table table-sm"><thead>
+          <tr><th scope="col">#</th><th scope="col">Battle type</th><th scope="col">Upper hand position</th><th scope="col">Upper hand class position</th></tr></thead>
+          <tbody>
+          <tr>
+            <th scope="row">Standart battle</th>
+            <td><a href="#standartContent" data-bs-toggle="collapse" class="${table_standart.Class}">Standart</a></td>
+            <td><a href="#upperhandContent" data-bs-toggle="collapse" class="${table_standart.UpperhandClass}">Standart upperhand</a></td>
+            <td><a href="#ClassupperhandContent" data-bs-toggle="collapse" class="${table_standart.UpperhandClass}">Standart</a></td>
+          </tr>
+          <tr>
+            <th scope="row">Assult battle</th>
+            <td><a href="#assultContent" data-bs-toggle="collapse" class="${table_assult.Class}">Assult</a></td>
+            <td><a href="#upperhandContentAssult" data-bs-toggle="collapse" class="${table_assult.UpperhandClass}">Assult Upperhand</a></td>
+            <td><a href="#ClassupperhandContentAssult" data-bs-toggle="collapse" class="${table_assult.UpperhandClass}">Standart</a></td>
+          </tr>
+          <tr>
+            <th scope="row">Encounter battle</th>
+            <td><a href="#encounterContent" data-bs-toggle="collapse" class="${table_encounter.Class}">Encounter</a></td>
+            <td><a href="#upperhandContentEncounter" data-bs-toggle="collapse" class="${table_encounter.UpperhandClass}">Encounter Upperhand</a></td>
+            <td><a href="#ClassupperhandContentEncounter" data-bs-toggle="collapse" class="${table_encounter.UpperhandClass}">Standart</a></td>
+          </tr>
+          <th scope="row">Frontlines</th>
+          <td><a href="#FrontlinesContent" data-bs-toggle="collapse" class="${table_frontlines.Class}">Frontlines</a></td>
+          <td><a href="#upperhandContentFrontlines" data-bs-toggle="collapse" class="${table_frontlines.UpperhandClass}">Frontlines Upperhand</a></td>
+          <td><a href="#ClassupperhandContentFrontlines" data-bs-toggle="collapse" class="${table_encounter.UpperhandClass}">Standart</a></td>
+        </tr>
+        <th scope="row">Grand Battle</th>
+        <td><a href="#GrandBattleContent" data-bs-toggle="collapse" class="${table_grandbattle.Class}">Grand Battle</a></td>
+        <td><a href="#upperhandContentGrandBattle" data-bs-toggle="collapse" class="${table_grandbattle.UpperhandClass}">Grand Battle Upperhand</a></td>
+        <td><a href="#ClassupperhandContentGrandBattle" data-bs-toggle="collapse" class="${table_encounter.UpperhandClass}">Standart</a></td>
+      </tr>
+        </tbody>
+      </table></div>
+
+          </div>
+        </div>
+      </div>
+      
+    </div>  
+
+    <div class="col">
+      <div class="container text-center">
+        <div class="row">
+          <div class="col">
+            <h6>Advantages</h6>
+
+            <div id="standartContent" class="collapse">${table_standart.pros}</div>
+            <div id="assultContent" class="collapse">${table_assult.pros}</div>
+            <div id="encounterContent" class="collapse">${table_encounter.pros}</div>
+            <div id="FrontlinesContent" class="collapse">${table_frontlines.pros}</div>
+            <div id="GrandBattleContent" class="collapse">${table_grandbattle.pros}</div>
+
+            <div id="upperhandContent" class="collapse">${table_standart.upperhandpros}</div>
+            <div id="upperhandContentAssult" class="collapse">${table_assult.upperhandpros}</div>
+            <div id="upperhandContentEncounter" class="collapse">${table_encounter.upperhandpros}</div>
+            <div id="upperhandContentFrontlines" class="collapse">${table_frontlines.upperhandpros}</div>
+            <div id="upperhandContentGrandBattle" class="collapse">${table_grandbattle.upperhandpros}</div>
+
+            <div id="ClassupperhandContent" class="collapse">${TFeatures.Classupperhandpros}</div>
+            <div id="ClassupperhandContentAssult" class="collapse">${TFeatures.Classupperhandassultpros}</div>
+            <div id="ClassupperhandContentEncounter" class="collapse">${TFeatures.Classupperhandencounterpros}</div>
+            <div id="ClassupperhandContentFrontlines" class="collapse">${TFeatures.Classupperhandfrontlinespros}</div>
+            <div id="ClassupperhandContentGrandBattle" class="collapse">${TFeatures.Classupperhandgbspros}</div>
+
+
+          </div>
+          <div class="col">
+            <h6>Down effect</h6>
+
+            <div id="standartContent" class="collapse">${table_standart.cons}</div>
+            <div id="assultContent" class="collapse">${table_assult.cons}</div>
+            <div id="encounterContent" class="collapse">${table_encounter.cons}</div>
+            <div id="FrontlinesContent" class="collapse">${table_frontlines.cons}</div>
+            <div id="GrandBattleContent" class="collapse">${table_grandbattle.cons}</div>
+
+            <div id="upperhandContent" class="collapse">${table_standart.upperhandcons}</div>
+            <div id="upperhandContentAssult" class="collapse">${table_assult.upperhandcons}</div>
+            <div id="upperhandContentEncounter" class="collapse">${table_encounter.upperhandcons}</div>
+            <div id="upperhandContentFrontlines" class="collapse">${table_frontlines.upperhandcons}</div>
+            <div id="upperhandContentGrandBattle" class="collapse">${table_grandbattle.upperhandcons}</div>
+
+            <div id="ClassupperhandContent" class="collapse">${TFeatures.Classupperhandcons}</div>
+            <div id="ClassupperhandContentAssult" class="collapse">${TFeatures.Classupperhandassultcons}</div>
+            <div id="ClassupperhandContentEncounter" class="collapse">${TFeatures.Classupperhandencountercons}</div>
+            <div id="ClassupperhandContentFrontlines" class="collapse">${TFeatures.Classupperhandfrontlinescons}</div>
+            <div id="ClassupperhandContentGrandBattle" class="collapse">${TFeatures.Classupperhandgbcons}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</div>
+      `;
+    };
+  </script>
+  
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      const xhr = new XMLHttpRequest();
+      xhr.open('GET', 'datatable.json');
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          const jsonData = JSON.parse(xhr.responseText);
+          const selectorData = jsonData.selector;
+
+          let htmldata = '';
+          selectorData.forEach(item => {
+            if (item.Name.includes('home')) {
+              htmldata += `
+                <a onclick="myFunction()" class="nav-link d-none active" id="nav-${item.TID}-tab" data-bs-toggle="tab" data-bs-target="#nav-${item.TID}" type="button" role="tab" aria-controls="nav-${item.TID}" aria-selected="true">${item.Name}</a>
+              `;
+            } else {
+              htmldata += `
+              <br>
+              <div class="card">
+                <div class="card-body">    
+                  <img src="..." class="rounded float-start" alt="...">
+                <a href="#" onclick="myFunction();mapfile('${item.TID}');" class="nav-link" id="nav-${item.TID}-tab" data-bs-toggle="tab" data-bs-target="#nav-${item.TID}" type="button" role="tab" aria-controls="nav-${item.TID}" aria-selected="true">${item.Name}</a>
+                </div>
+              </div>
+              <br>
+                `;
+            }
+          });
+
+          const targetElement = document.getElementById('nav-tab unique');
+          targetElement.innerHTML += htmldata;
+        }
+      };
+      xhr.send();
+    });
+  </script>
+
+  
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      const xhr = new XMLHttpRequest();
+      xhr.open('GET', 'datatable.json');
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          const jsonData = JSON.parse(xhr.responseText);
+          const selectorData = jsonData.selector;
+
+          let htmldata = '';
+          
+          selectorData.forEach(item => {
+            if (item.Name.includes('home')) {
+              htmldata += ``; 
+            } else {
+              htmldata += `
+                  <div class="tab-pane fade" id="nav-${item.TID}" role="tabpanel" aria-labelledby="nav-${item.TID}-tab" tabindex="0">
+                    <div class="nav nav-tabs" id="nav-tab ${item.TID}" role="tablist">
+                      <a href="#${item.TID}" onclick="myFunction()"  class="nav-link" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="false"> << Type Selectror >> </a>
+                      <a href="#${item.TID}" onclick="mapfile('${item.TID}');mapselector(this,'${item.TID}Container')" class="inside-nav-link d-none"><< Map selector >></a>
+                    </div>
+                      <div id="${item.TID}Container" class="showtabcontent"></div>
+                  </div>
+
+              `;
+            }
+          });
+        const targetElement = document.getElementById('nav-tabContent');
+        targetElement.innerHTML += htmldata;
+      }
+    };
+    xhr.send();
+  });
+  </script>
+
+<script>function showcase(element){ var targetLink = $('.nav.nav-tabs a:nth-child(2)'); targetLink.removeClass('d-none');}</script>
+  
+
+<script>
+  function mapselector(element, containerId) {
+    var container = $('#' + containerId);
+    $(element).addClass('d-none');
+    var activeTab = container.find('.tab-pane.active.show');
+    activeTab.removeClass('active show');
+    var firstFadeTab = container.find('.tab-pane.fade').first();
+    firstFadeTab.addClass('active show');
+    var firstButton = $('.tab-pane.active.show button:first');
+    firstButton.addClass('active');
+  }
+</script>
+
+
+  <div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+        <div class="" id="nav-tab unique" role="tablist">
+        </div>
+    </div>
+    </div>
+  </div>
+  
+
+  
+  
+  <script>
+function myFunction() {
+    $(document).ready(function () {
+      $('a.nav-link').click(function () {
+        var tabContentId = $(this).attr('data-bs-target');
+        $('.tab-pane').removeClass('active show');
+        $(tabContentId).addClass('active show');
+      });
+    });
+	  $(document).ready(function () {
+      $(this).click(function () {
+       $(this).removeClass('active');
+
+      });
+    });
+}
+</script>
+
+</body>
+</html>
